@@ -14,9 +14,7 @@ sections:
       text:
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
-        text_color_light: true
+        image: homepageimage.jpg
   - block: features
     content:
       title: Skills
