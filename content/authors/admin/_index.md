@@ -1,8 +1,8 @@
 ---
 title: Zimai Li
 role: PhD student in Biology
-avatar_filename: ice_dsc05032.jpg
-bio: "I research and make arts on complexity science. "
+avatar_filename: img_4544.jpg
+bio: "I research and create on complexity. "
 interests: []
 social:
   - icon: envelope
@@ -45,5 +45,6 @@ highlight_name: true
 first_name: Alice
 email: zimai.li@evobio.eu
 ---
-Zimai
+Z﻿imai is a researcher that is interested in the dynamic and complex interactions in biological systems. Currently he is doing his PhD on the social behaviour in ants. 
+
 {style="text-align: justify;"}
