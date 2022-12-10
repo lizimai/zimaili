@@ -14,7 +14,7 @@ sections:
       text:
     design:
       background:
-        image: homepageimage.jpg
+        image: background.jpg
   - block: features
     content:
       title: Skills
