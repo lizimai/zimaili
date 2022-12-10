@@ -1,7 +1,7 @@
 ---
 title: Zimai Li
 role: PhD student in Biology
-avatar_filename: img_4544.jpg
+avatar_filename: avatar.jpg
 bio: "I research and create on complexity. "
 interests: []
 social:
