@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: 1950s
-  theme_night: 1950s
-  font: rose
+  theme_day: Cyberpunk
+  theme_night: Cyberpunk
+  font: Cyberpunk
   font_size: L
 
 # SEO
