@@ -45,6 +45,6 @@ highlight_name: true
 first_name: Alice
 email: zimai.li@evobio.eu
 ---
-Z﻿imai is a researcher that is interested in the dynamic and complex interactions in biological systems. Currently he is doing his PhD on the social behaviour in ants. 
+Zimai is a researcher that is interested in the dynamic and complex interactions in biological systems. Currently he is doing his PhD on the social behaviour in ants. 
 
 {style="text-align: justify;"}
