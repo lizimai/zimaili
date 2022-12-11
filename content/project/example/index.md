@@ -1,9 +1,11 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Water colour doodles
+summary: Water colour doodles.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - art
+  - watercolour
+  - doodle
+date: '2022-12-11T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
