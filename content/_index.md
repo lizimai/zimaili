@@ -24,26 +24,6 @@ sections:
           size: cover
           position: left
           parallax: true    
-  - block: features
-    content:
-      title: Skills
-      items:
-        - name: R
-          description: 60%
-          icon: r-project
-          icon_pack: fab
-        - name: linux
-          description: 50%
-          icon: linux
-          icon_pack: fab
-        - name: github
-          description: 100%
-          icon: github
-          icon_pack: fab                      
-        - name: Statistics
-          description: 60%
-          icon: chart-line
-          icon_pack: fas
   - block: collection
     id: posts
     content:
@@ -113,6 +93,26 @@ sections:
         {{< gallery album="gallery">}}
     design:
       columns: '1'
+  - block: features
+    content:
+      title: Skills
+      items:
+        - name: R
+          description: 60%
+          icon: r-project
+          icon_pack: fab
+        - name: linux
+          description: 50%
+          icon: linux
+          icon_pack: fab
+        - name: github
+          description: 100%
+          icon: github
+          icon_pack: fab                      
+        - name: Statistics
+          description: 60%
+          icon: chart-line
+          icon_pack: fas
   - block: tag_cloud
     content:
       title: Popular Topics
