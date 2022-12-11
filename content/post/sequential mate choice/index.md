@@ -1,24 +1,23 @@
 ---
-title: Sequential mate choice in mammals
-subtitle: blahblah
+title: Sequential mate choice
+subtitle: How animals decide their lover based on previous experience
 date: 2022-12-11
-summary: blah
+summary: 
 draft: false
 featured: true
-authors:
-  - zimai
-lastmod: 2022-12-11
 tags:
+  - science
+  - evolutionary biology
   - mate choice
   - decision making
 categories:
-  - evolutionary biology
+  - scientific communication
 projects: []
 image:
-  caption: ""
+  caption: "Photo credit to Oliver Höner from **[Ngorongoro hyena project](http://www.hyena-project.com)**"
   focal_point: ""
   placement: 2
   preview_only: false
 ---
 
-Mate choice in spotted hyenassss blah blah blah 
+Mate choice

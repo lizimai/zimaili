@@ -72,10 +72,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Art
-          tag: art
         - name: Science
           tag: science
+        - name: Art
+          tag: art
     design:
       columns: '1'
       view: masonry
@@ -113,11 +113,6 @@ sections:
           description: 60%
           icon: chart-line
           icon_pack: fas
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
