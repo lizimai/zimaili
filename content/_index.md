@@ -15,13 +15,13 @@ sections:
     design:
       background:
         color: black
-        text_color_light: true
+        text_color_light: false
         image:
           # Add your image background to `assets/media/`.
           filename: background.jpg
           filters:
             brightness: 0.7
-          size: actual
+          size: contain
           position: left
           parallax: true
       css_class: d-flex fullscreen align-items-cente
