@@ -1,8 +1,9 @@
 ---
+# Files in this folder represent a Widget Page
+type: widget_page
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
-type: 'widget_page'
 widget: portfolio
 
 # This file represents a page section.
@@ -33,7 +34,6 @@ filters:
       tag: watercolour
     - name: Doodle
       tag: doodle
-
 design:
   columns: '1'
   view: masonry
