@@ -21,7 +21,7 @@ sections:
           filename: background.jpg
           filters:
             brightness: 0.7
-          size: cover
+          size: actual
           position: left
           parallax: true
       css_class: d-flex fullscreen align-items-cente
