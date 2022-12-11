@@ -17,7 +17,8 @@ filters:
    - project
     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   tags:
-  - art
+    - art
+
   default_button_index: 0
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -31,12 +32,13 @@ filters:
       tag: watercolour
     - name: Doodle
       tag: doodle
-    design:
-      columns: '1'
-      view: masonry
-      flip_alt_rows: true
-      background: {}
-      spacing: {padding: [0, 0, 0, 0]}
+      
+design:
+  columns: '1'
+  view: masonry
+  flip_alt_rows: true
+  background: {}
+  spacing: {padding: [0, 0, 0, 0]}
 ---
 
 In my spare time, I like to doodle and make some handcrafts. 
