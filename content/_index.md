@@ -91,8 +91,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Art
+          tag: art
         - name: Other
           tag: Demo
     design:
