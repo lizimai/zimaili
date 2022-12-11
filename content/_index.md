@@ -93,9 +93,9 @@ sections:
         - name: All
           tag: '*'
         - name: Art
-          category: art
-        - name: Other
-          tag: Demo
+          tag: art
+        - name: Science
+          tag: science
     design:
       columns: '1'
       view: masonry
