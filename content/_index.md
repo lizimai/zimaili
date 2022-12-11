@@ -79,7 +79,7 @@ sections:
       text: |-
         **[See more of my artwork]({{< relref "../art" >}})**
 
-        {{< gallery album="demo" >}}
+        {{< gallery album="demo"  resize_options="x250">}}
     design:
       columns: '1'
   - block: contact
