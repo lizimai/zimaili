@@ -72,8 +72,8 @@ sections:
       view: compact
       columns: '2'
     # A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
-# See https://wowchemy.com/docs/widget/portfolio/
+    # This section displays content from `content/project/`.
+    # See https://wowchemy.com/docs/widget/portfolio/
   - block: portfolio
     id: projects
     content:
