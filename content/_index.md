@@ -20,10 +20,10 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background.jpg
           filters:
-            brightness: 0.4
+            brightness: 0.7
           size: cover
-          position: center
-          parallax: false
+          position: left
+          parallax: true
       css_class: d-flex fullscreen align-items-cente
   - block: features
     content:
