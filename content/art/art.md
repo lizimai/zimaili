@@ -7,6 +7,7 @@ weight: 30
 title: Artworks done during freetime
 subtitle: ''
 content:
+  page_type: project
   # Choose which content to display in the widget
   filters:
     # Folders to display content from
