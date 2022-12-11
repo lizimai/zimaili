@@ -72,11 +72,13 @@ sections:
       view: compact
       columns: '2'
   - block: markdown
+    id: art
     content:
       title: Gallery
       subtitle: ''
       text: |-
-        [See more of my artwork]({{< relref "../art" >}})
+        **[See more of my artwork]({{< relref "../art" >}})**
+
         {{< gallery album="demo" >}}
     design:
       columns: '1'
