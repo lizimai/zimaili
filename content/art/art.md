@@ -3,7 +3,7 @@ widget: portfolio # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Recent Blog Posts
+title: Artwork
 subtitle: ''
 
 # Position of this section on the page
@@ -15,7 +15,7 @@ content:
     # The folders to display content from
     folders:
       - artwork
-    tag: ''
+    tag: 'art'
     category: ''
     publication_type: ''
     author: ''
@@ -31,6 +31,7 @@ content:
   # Field to sort by, such as Date or Title
   sort_by: 'Date'
   sort_ascending: false
+
 design:
   # Choose a listing view
   view: compact
