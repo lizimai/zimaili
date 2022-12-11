@@ -8,9 +8,8 @@ title: Art
 subtitle: blahblah
 filters:
   folders:
-   - ../project
     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  tags:
+  category:
     - art
 
   default_button_index: 0

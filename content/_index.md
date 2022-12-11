@@ -92,7 +92,7 @@ sections:
         - name: All
           tag: '*'
         - name: Art
-          tag: art
+          category: art
         - name: Other
           tag: Demo
     design:
