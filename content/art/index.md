@@ -14,7 +14,7 @@ subtitle: blahblah
 
 filters:
   folders:
-   - project
+   - ../project
     # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   tags:
     - art
@@ -32,7 +32,7 @@ filters:
       tag: watercolour
     - name: Doodle
       tag: doodle
-      
+
 design:
   columns: '1'
   view: masonry
