@@ -40,5 +40,3 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
-
-In my spare time, I like to doodle and make some handcrafts. 
