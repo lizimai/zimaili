@@ -11,7 +11,6 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - art
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
@@ -19,13 +18,13 @@ content:
 #    exclude_tags:
 #      - preface    
     # Uncomment below to show specific Hugo Page kinds
-    kinds:
-      - page
+    #kinds:
+    #  - page
 #      - section
 
   # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+#  sort_by: 'Date'
+#  sort_ascending: false
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
