@@ -5,15 +5,12 @@ type: widget_page
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
-
 # This file represents a page section.
 headless: true
-
 # Order that this section appears on the page.
 weight: 20
 title: Art
 subtitle: blahblah
-
 filters:
   folders:
    - project
@@ -41,3 +38,5 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
+
+hahaha
