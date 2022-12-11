@@ -12,6 +12,18 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text:
+    design:
+      background:
+        color: black
+        text_color_light: false
+        image:
+          # Add your image background to `assets/media/`.
+          filename: background.jpg
+          filters:
+            brightness: 0.7
+          size: cover
+          position: left
+          parallax: true    
   - block: features
     content:
       title: Skills
