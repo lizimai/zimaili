@@ -1,9 +1,8 @@
 ---
 title: Water colour doodles
 summary: Water colour doodles.
-category:
-  - art
 tags:
+  - art
   - watercolour
   - doodle
 date: '2022-12-11T00:00:00Z'
