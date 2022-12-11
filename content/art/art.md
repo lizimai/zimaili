@@ -1,48 +1,39 @@
 ---
-widget: portfolio
-# This file represents a page section.
-headless: true
-# Order that this section appears on the page.
-weight: 30
-title: Artworks done during freetime
+widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
+headless: true  # This file represents a page section.
+
+# Put Your Section Options Here (title, background, etc.) ...
+title: Recent Blog Posts
 subtitle: ''
+
+# Position of this section on the page
+weight: 1
+
 content:
-  page_type: project
-  # Choose which content to display in the widget
+  # Filter content to display
   filters:
-    # Folders to display content from
-    folders: artwork
-    # Uncomment below to only show content with specific tags:
-#    tags:
-#      - Machine Learning
-    # Uncomment below to exclude content with specific tags:
-#    exclude_tags:
-#      - preface    
-    # Uncomment below to show specific Hugo Page kinds
-    #kinds:
-    #  - page
-#      - section
-
+    # The folders to display content from
+    folders:
+      - artwork
+    tag: ''
+    category: ''
+    publication_type: ''
+    author: ''
+    featured_only: false
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 10
+  # Choose how many pages you would like to offset by
+  # Useful if you wish to show the first item in the Featured widget
+  offset: 0
   # Field to sort by, such as Date or Title
-#  sort_by: 'Date'
-#  sort_ascending: false
-
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove toolbar, delete/comment all instances of `filter_button` below.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Watercolour
-      tag: watercolour
-    - name: Doodle
-        tag: doodle     
+  sort_by: 'Date'
+  sort_ascending: false
 design:
+  # Choose a listing view
+  view: compact
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
-  view: masonry
-  flip_alt_rows: true
-  background: {}
-  spacing: {padding: [0, 0, 0, 0]}
 ---
