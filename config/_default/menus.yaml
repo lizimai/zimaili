@@ -13,10 +13,10 @@ main:
   - name: Art
     #url: art
     PageRef: art/_index.md
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 30
   - name: Contact
     url: '#contact'
     weight: 50

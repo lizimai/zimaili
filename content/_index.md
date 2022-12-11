@@ -119,7 +119,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        I am happy to connect with people to talk about science and arts. Write me a message!
+        I am happy to connect with people to talk about science and art. Write me a message!
       # Contact (add or remove contact options as necessary)
       email: zimai.li@evobio.eu
       address:
