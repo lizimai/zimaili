@@ -15,10 +15,10 @@ categories:
   - evolutionary biology
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
 ---
 
-Mate choice in spotted hyenassss blah blah blah
+Mate choice in spotted hyenassss blah blah blah 

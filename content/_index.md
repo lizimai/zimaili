@@ -76,6 +76,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
+        [See more of my artwork]({{< relref "../art" >}})
         {{< gallery album="demo" >}}
     design:
       columns: '1'

@@ -10,7 +10,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/ZimaiLi
     label: Follow me on Twitter
     display:
       header: true
@@ -19,13 +19,13 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lizimai
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_ZimaiLi.pdf
 organizations:
   - name: Max Planck Institute for Chemical Ecology
     url: https://www.ice.mpg.de/person/114158/94723
@@ -39,12 +39,12 @@ education:
       year: 2017
 superuser: true
 status:
-  icon: ☕️
+  icon: 🦄
 last_name: Wu
 highlight_name: true
 first_name: Alice
 email: zimai.li@evobio.eu
 ---
-Zimai is a researcher that is interested in the dynamic and complex interactions in biological systems. Currently he is doing his PhD on the social behaviour in ants. 
+Zimai is a researcher that is interested in the dynamic and complex interactions in biological systems. Currently he is doing his PhD on the social behaviour of ants. 
 
 {style="text-align: justify;"}
