@@ -75,28 +75,26 @@ sections:
 # This section displays content from `content/project/`.
 # See https://wowchemy.com/docs/widget/portfolio/
   - block: portfolio
-    id: art
+    id: projects
     content:
-      title: ''
-      subtitle: ''
-      # Page type to display. E.g. project.
-      page_type: project
+      title: 'Projects'
+      filters:
+        folders:
+          - project
       # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-      filter_default: 0
+      default_button_index: 0
       # Filter toolbar (optional).
       # Add or remove as many filters (`filter_button` instances) as you like.
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      filter_button:
+      buttons:
         - name: All
-        tag: '*'
-        - name: Machine Learning
-        tag: ML
-        - name: Computer Vision
-          tag: CV
-        - name: NLP
-          tag: NLP
+          tag: '*'
+        - name: Deep Learning
+          tag: Deep Learning
+        - name: Other
+          tag: Demo
     design:
       columns: '1'
       view: masonry
@@ -111,9 +109,14 @@ sections:
       text: |-
         **[See more of my artwork]({{< relref "../art" >}})**
 
-        {{< gallery album="demo"  resize_options="x250">}}
+        {{< gallery album="gallery">}}
     design:
       columns: '1'
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
