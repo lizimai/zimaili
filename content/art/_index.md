@@ -1,9 +1,4 @@
 ---
-# Files in this folder represent a Widget Page
-type: widget_page
-# A section created with the Portfolio widget.
-# This section displays content from `content/project/`.
-# See https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
 # This file represents a page section.
 headless: true
@@ -12,10 +7,7 @@ weight: 30
 title: Art
 subtitle: blahblah
 filters:
-  folders:
-   - project
-    # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  tags:
+  category:
     - art
 
   default_button_index: 0
@@ -38,5 +30,3 @@ design:
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
 ---
-
-hahaha
