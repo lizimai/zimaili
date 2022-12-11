@@ -1,24 +1,8 @@
 ---
-title: Sequential mate choice in mammals
+title: Art
 subtitle: blahblah
-date: 2022-12-11
-summary: blah
 draft: false
 featured: true
-authors:
-  - zimai
-lastmod: 2022-12-11
-tags:
-  - mate choice
-  - decision making
-categories:
-  - evolutionary biology
-projects: []
-image:
-  caption: ""
-  focal_point: ""
-  placement: 2
-  preview_only: false
 ---
 
-Mate choice in spotted hyenassss blah blah blah 
+In my spare time, I like to doodle and make some handcrafts. 
