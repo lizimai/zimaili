@@ -11,8 +11,8 @@ main:
     url: '#posts'
     weight: 20
   - name: Art
-    url: art
-    #PageRef: art
+    #url: art
+    PageRef: art/_index.md
     weight: 30
   - name: Projects
     url: '#projects'
